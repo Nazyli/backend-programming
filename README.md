@@ -13,4 +13,7 @@ Prodi  : Teknik Informatika
 ```
 
 ## Screenshots
-![picture](assets/img/ss3.png)
+### Pertemuan 3
+![picture](task/pertemuan-3/ss3.png)
+### Pertemuan 4
+![picture](task/pertemuan-4/GET - FindAll.png)
