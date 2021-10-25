@@ -16,4 +16,4 @@ Prodi  : Teknik Informatika
 ### Pertemuan 3
 ![picture](task/pertemuan-3/ss3.png)
 ### Pertemuan 4
-![picture](task/pertemuan-4/GET - FindAll.png)
+![picture](task/pertemuan-4/GET%20-%20FindAll.png)
