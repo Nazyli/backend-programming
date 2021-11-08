@@ -19,3 +19,5 @@ Prodi  : Teknik Informatika
 ![picture](task/pertemuan-4/GET%20-%20FindAll.png)
 ### Pertemuan 5
 ![picture](task/pertemuan-5/Find%20All.png)
+### Pertemuan 6
+![picture](task/pertemuan-6/Save%20-%20validation%20nim.png)
