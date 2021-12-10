@@ -23,3 +23,5 @@ Prodi  : Teknik Informatika
 ![picture](task/pertemuan-6/Save%20-%20validation%20nim.png)
 ### Ujian Tengah Semester
 ![picture](task/UTS/1.1%20Get%20All%20Resource.png)
+### Pertemuan 9
+![picture](task/pertemuan-9/ss.png)
