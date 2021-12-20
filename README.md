@@ -25,3 +25,5 @@ Prodi  : Teknik Informatika
 ![picture](task/UTS/1.1%20Get%20All%20Resource.png)
 ### Pertemuan 9
 ![picture](task/pertemuan-9/ss.png)
+### Pertemuan 10
+![picture](task/pertemuan-10/ss.png)
