@@ -27,3 +27,5 @@ Prodi  : Teknik Informatika
 ![picture](task/pertemuan-9/ss.png)
 ### Pertemuan 10
 ![picture](task/pertemuan-10/ss.png)
+### Pertemuan 11
+![picture](task/pertemuan-11/ss.png)
