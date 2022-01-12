@@ -33,3 +33,5 @@ Prodi  : Teknik Informatika
 ![picture](task/pertemuan-12/ss.png)
 ### Pertemuan 13
 ![picture](task/pertemuan-13/ss.png)
+### Ujian Akhir Semester
+![picture](task/UAS/ss/1.1%20Get%20All%20Resource.png)
